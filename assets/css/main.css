@@ -444,6 +444,10 @@
     background: rgba(9, 180, 81, 1);
 }
 
+.sort-by:hover {
+    cursor: pointer;
+}
+
 .sort-by span {
     width: 63px;
     font-size: 18px;
