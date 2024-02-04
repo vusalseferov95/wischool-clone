@@ -46,6 +46,10 @@
     gap: 24px;
 }
 
+.gap32 {
+    gap: 32px;
+}
+
 .pl-15 {
     padding-left: 15px;
 }
