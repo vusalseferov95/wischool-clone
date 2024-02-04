@@ -22,10 +22,45 @@
     justify-content: start;
 }
 
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.gap5 {
+    gap: 5px;
+}
+
+.gap10 {
+    gap: 10px;
+}
+
+.gap16 {
+    gap: 16px;
+}
+
+.gap24 {
+    gap: 24px;
+}
+
 .pl-15 {
     padding-left: 15px;
+}
+
+.pt-10 {
+    padding-top: 10px;
 }
 
 .color-green {
     color: #09B451;
 }
+
+.w-290 {
+    width: 290px;
+    height: 432px;
+    object-fit: cover;
+}
+
