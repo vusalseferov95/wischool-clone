@@ -54,6 +54,10 @@
     gap: 30px;
 }
 
+.gap32 {
+    gap: 32px;
+}
+
 .gap64 {
     gap: 64px;
 }
